@@ -1,0 +1,1 @@
+Файлы check_1.docx и check_2.docx схожи на: matcher(21.26%) levenshtein(75.54%)

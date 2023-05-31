@@ -1,0 +1,6 @@
+Файлы check_1.docx и check_2.docx схожи на: matcher(21.26%) levenshtein(75.54%)
+Файлы check_1.docx и check_3.docx схожи на: matcher(2.61%) levenshtein(26.19%)
+Файлы check_1.docx и check_4.doc схожи на: matcher(0.00%) levenshtein(0.00%)
+Файлы check_2.docx и check_3.docx схожи на: matcher(1.04%) levenshtein(25.28%)
+Файлы check_2.docx и check_4.doc схожи на: matcher(0.00%) levenshtein(0.00%)
+Файлы check_3.docx и check_4.doc схожи на: matcher(0.00%) levenshtein(0.00%)
